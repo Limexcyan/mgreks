@@ -1,4 +1,5 @@
 density_plots/*
 hasse_diagrams/*
+mobius/*
 .idea/*
 __pycache__/*
