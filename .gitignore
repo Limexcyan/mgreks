@@ -1,2 +1,4 @@
 density_plots/*
 hasse_diagrams/*
+.idea/*
+__pycache__/*
